@@ -1,0 +1,7 @@
+{
+  "name": "Gyan Galaxy",
+  "description": "A gamified, AI-powered learning platform for children aged 5-12, featuring interactive lessons, speaking coaches, and financial literacy games.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
